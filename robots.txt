@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canvasindia76-coder.github.io/canvas-india-website/sitemap.xml
